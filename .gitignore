@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.env.* 
+.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# SQLite databases (if used locally)
+*.sqlite3
+
+# Celery / task queues
+celerybeat-schedule
+celerybeat.pid
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage / testing
+.coverage
+.tox/
+.nox/
+.cache
+.pytest_cache/
+.coverage.*
+
+# Environment variables
+.env
